@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <img src="https://eportfolio.utm.my/artefact/artefact.php?artefact=963595&view=185127" alt="mohanan-cs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanan-cs&label=Profile%20views&color=0e75b6&style=flat" alt="mohanan-cs" /> </p>
 
 - 🌱 I’m currently training **data engineering basic topics**
 
