@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Abo Jazar</h1>
 <h3 align="center">A passionate Software Engineering from Palestine</h3>
 
-<img align="right" alt="coding" width="400" src="http://dribble.com/shots/4948736-UI-Developer/attachments/10687954?mode=media">
+<img align="right" alt="coding" width="400" src="http://dribble.com/shots/4948736-UI-Developer/attachments/10687954?mode=media](https://i.gifer.com/Yedc.gif">
 
 
 
