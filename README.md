@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohanan-cs&show_icons=true&locale=en" alt="mohanan-cs" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanan-cs&" alt="mohanan-cs" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=mohanan-cs1&theme=dark" alt="mohanan-cs" /></p>
